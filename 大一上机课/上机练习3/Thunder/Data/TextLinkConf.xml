@@ -1,0 +1,15 @@
+<RightTextLink><!-- 根节点 -->  
+    <TextLink id="text1" text="下载速度不给力？">
+        <link>http://www.xunlei.com</link>
+    </TextLink>
+    <TextLink id="text2" text="来试试电信智能提速吧！">
+        <link>http://www.xunlei.com</link>
+    </TextLink>
+    <TextLink id="text3" text="迅雷播放特权会员隆重上线！">
+        <link>http://www.xunlei.com</link>
+    </TextLink>
+    <TextLink id="text4" text="迅雷游戏版，游戏用户专属定制">
+        <link>http://www.xunlei.com</link>
+    </TextLink>
+</RightTextLink>
+

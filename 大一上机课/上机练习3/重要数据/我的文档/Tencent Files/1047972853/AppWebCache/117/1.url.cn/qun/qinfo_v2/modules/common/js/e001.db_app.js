@@ -1,0 +1,1 @@
+(function(root,factory){if(typeof define==="function"&&define.amd){define(["db"],factory)}else{root["DB"]=factory(root["DB"])}})(this,function(DB){DB.genSimpleAPI("get_group_list","get_group_list");return DB});
