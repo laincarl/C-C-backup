@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数模板", "函数模板\函数模板.vcxproj", "{EA825FB0-8C31-4E2B-9473-514204ECC29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA825FB0-8C31-4E2B-9473-514204ECC29A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA825FB0-8C31-4E2B-9473-514204ECC29A}.Debug|Win32.Build.0 = Debug|Win32
+		{EA825FB0-8C31-4E2B-9473-514204ECC29A}.Release|Win32.ActiveCfg = Release|Win32
+		{EA825FB0-8C31-4E2B-9473-514204ECC29A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
